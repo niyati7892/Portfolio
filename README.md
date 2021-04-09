@@ -10,7 +10,7 @@
 2.PortfolioPage:
 ![screenshot]()
 3.ContactPage:
-![screenshot](https://github.com/niyati7892/Portfolio/blob/main/assets/Screen%20Shot%202021-04-09%20at%2012.05.19%20PM.png
+![screenshot](https://github.com/niyati7892/Portfolio/blob/main/assets/Screen%20Shot%202021-04-09%20at%2012.05.19%20PM.png)
 4.ResumePage:
 ![screenshot](https://github.com/niyati7892/Portfolio/blob/main/assets/Screen%20Shot%202021-04-09%20at%2012.05.28%20PM.png)
 
